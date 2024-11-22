@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">OceanTech</string>
+
+    <!--    Generics-->
+    <string name="text_email_login_fragment">E-mail</string>
+    <string name="text_senha_login_fragment">Senha</string>
+    <string name="text_register_account_register_fragment">Criar conta</string>
+    <string name="text_invisible_email">email@email.com</string>
+    <string name="text_invisible_password">******</string>
+
+
+    <!--    Login Fragment-->
+    <string name="text_btn_login_fragment">Login</string>
+    <string name="text_recover_login_fragment">Recuperar conta</string>
+
+
+    <!--Recover Account Fragment-->
+    <string name="text_recover_account_fragment">Recuperar conta</string>
+    <string name="text_btn_recover_account_fragment">Enviar</string>
+    <string name="account_not_registered_register_fragment" />
+    <string name="invalid_email_register_fragment" />
+    <string name="invalid_password_register_fragment" />
+    <string name="email_in_use_register_fragment" />
+    <string name="strong_password_register_fragment" />
+    <string name="error_generic" />
+
+
+    <!-- Form Task Fragment -->
+    <string name="text_title_form_task_fragment">Informações pessoais</string>
+    <string name="text_description_form_task_fragment">Primeiro nome</string>
+    <string name="text_name_form_task_fragment">Último nome</string>
+    <string name="text_telefone_form_task_fragment">Telefone de contato</string>
+    <string name="text_cidade_form_task_fragment">Cidade</string>
+    <string name="text_bairro_form_task_fragment">Bairro</string>
+
+
+    <string name="text_edit_form_task_fragment">Escreva aqui</string>
+    <string name="text_digite_form_task_fragment">Digite seu telefone</string>
+    <string name="text_escreva_cidade_form_task_fragment">Escreva sua cidade</string>
+    <string name="text_escreva_bairro_form_task_fragment">Escreva seu bairro</string>
+
+
+    <string name="text_btn_saveTask_form_task_fragment">Salvar</string>
+    <string name="text_btn_delete_form_task_fragment">Excluir conta</string>
+
+
+    <string name="text_btn_title_form_task_fragment">EnerGenius</string>
+    <string name="text_btn_body_form_task_fragment">EnerGenius é uma aplicação inovadora e altamente eficiente, projetada para fornecer um acompanhamento detalhado e personalizado do consumo de energia. Com um sistema avançado de monitoramento em tempo real, a plataforma permite que usuários e empresas tenham visibilidade total sobre seu consumo energético, facilitando a identificação de padrões, desperdícios e áreas de otimização. Além disso, o EnerGenius utiliza algoritmos de inteligência artificial para gerar recomendações personalizadas, visando não só a redução de custos operacionais, mas também a melhoria contínua na eficiência energética. A aplicação é uma ferramenta estratégica para aqueles que buscam não apenas economizar, mas também contribuir para a sustentabilidade, ao minimizar o impacto ambiental associado ao uso de energia. Com uma interface intuitiva e relatórios detalhados, o EnerGenius proporciona uma gestão inteligente e proativa do consumo, tornando-se indispensável para quem deseja adotar práticas mais eficientes e responsáveis em relação ao uso de energia.</string>
+    <string name="text_btn_rm_form_task_fragment">
+        1. Felipe Torlai RM 550263\n
+        2. Felipe Pinheiro RM 550244\n
+        3. Gabriel Girami RM 98017\n
+        4. Gustavo Vinhola RM 98826\n
+        5. Jean Carlos RM 550430</string>
+
+
+</resources>
